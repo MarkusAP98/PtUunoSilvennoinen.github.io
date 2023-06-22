@@ -1,0 +1,47 @@
+.navbar {
+    position: absolute;
+    width: 100%;
+}
+ul,
+.navbar li {
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    margin:  0.5rem 2rem 0.5rem 1rem;
+    cursor: pointer;
+    font-weight: 700;
+     text-shadow: -1px -1px 0 #000, 4px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+a:hover {
+    color: aqua;
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 900px) {
+    .navbar li {
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 675px) {
+    .navbar li {
+       font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .navbar li {
+       font-size: 20px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .navbar li {
+       font-size: 15px;
+    }
+}
+
