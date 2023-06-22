@@ -27,7 +27,7 @@ const About = () => {
             <li>- Lihasmassan kasvattaminen </li>
             <li>- Oppia syömään tavoitteitasi</li>
           </ul>
-          Laita viestiä ja jutellaan lisää! 🤝
+        Laita viestiä ja jutellaan lisää! 🤝
         </p>
         <h2 id='yhteistietto'>Ota Yhteyttä</h2>
         <h1>👇</h1>
