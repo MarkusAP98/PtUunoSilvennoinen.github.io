@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="navbar">
       <ul>
         <li>
-          <a href="#">Palvellut</a>
+          <a href="#palvellut">Palvellut</a>
         </li>
         <li>
           <a href="#valmentajasi">Valmentajasi</a>
