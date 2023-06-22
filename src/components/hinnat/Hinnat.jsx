@@ -3,7 +3,7 @@ import "./hinnat.css";
 
 const Hinnat = () => {
   return (
-    <div className="hinnat__section">
+    <div className="hinnat__section" id="palvellut">
       <h1>Palvellut</h1>
       <div className="hinnat__section-info">
         <div className="hinnat__section-info-div">

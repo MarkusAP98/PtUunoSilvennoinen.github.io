@@ -40,7 +40,7 @@ const About = () => {
           <br />
           <h4>tai</h4>
           <br />
-          <a>
+          <a href='tel:358-447-396239'>
             <BsFillTelephoneInboundFill /> +358 44 7396239
           </a>
         </div>
