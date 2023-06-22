@@ -15,11 +15,14 @@ const Hinnat = () => {
             motivoituneena ja vältät tylsyyden. 💪 Kehittymistä: Treeniohjelmani
             on suunniteltu edistymisen maksimoimiseksi. Voit nostaa
             voimatasojasi, muokata kehoasi ja saavuttaa haluamasi tulokset. 📅
-            Joustavuutta: Huomioin aikataulusi ja elämäntilanteesi
-            suunnitellessani ohjelmaa. Löydämme yhdessä sopivan tasapainon
-            treenien ja arjen välillä. 🔥 Motivaatiota: Olen sitoutunut tukemaan
-            ja kannustamaan sinua matkallasi. Autan sinua ylittämään omat rajasi
-            ja saavuttamaan uudet tasot.
+            Joustavuutta: Huomioin aikataulusi ja elämäntilanteesi Joustavuutta:
+            Huomioin aikataulusi ja elämäntilanteesi Joustavuutta: Huomioin
+            aikataulusi ja elämäntilanteesi Joustavuutta: Huomioin aikataulusi
+            ja elämäntilanteesi Joustavuutta: Huomioin aikataulusi ja
+            elämäntilanteesi suunnitellessani ohjelmaa. Lö ydämme yhdessä
+            sopivan tasapainon treenien ja arjen väl illä. 🔥 Motivaatiota: Olen
+            sitoutunut tukemaan ja kannustamaan sinua matkallasi. Autan sinua
+            ylittämään omat rajasi ja saavuttamaan uudet tasot.
           </p>
         </div>
         <div className="hinnat__section-info-div">
