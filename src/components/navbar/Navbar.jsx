@@ -12,7 +12,7 @@ const Navbar = () => {
           <a href="#valmentajasi">Valmentajasi</a>
         </li>
         <li>
-          <a href="#yhteistietto">Yhteistietto</a>
+          <a href="#yhteistietto">Yhteistiedot</a>
         </li>
       </ul>
     </div>
