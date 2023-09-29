@@ -6,7 +6,7 @@ img {
   z-index: -1;
 }
 .section h1 {
-  padding: 1.5rem;
+  padding: 1rem;
   font-weight: 900;
   font-size: 40px;
   position: absolute;
@@ -14,7 +14,7 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   background: black;
-  width: 550px;
+  width: 450px;
   text-align: center;
   z-index: 1;
 }
@@ -23,7 +23,7 @@ button {
     font-weight: 900;
     font-size: 50px;
     position: absolute;
-    top: 80%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: rgb(244, 36, 36);
