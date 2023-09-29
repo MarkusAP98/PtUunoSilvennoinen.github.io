@@ -81,9 +81,9 @@ button:hover {
   .section h1 {
   padding: 0.5rem;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 30px;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: black;
@@ -96,7 +96,7 @@ button {
     font-weight: 900;
     font-size: 40px;
     position: absolute;
-    top: 80%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: rgb(244, 36, 36);
@@ -116,7 +116,7 @@ button {
     font-weight: 900;
     font-size: 25px;
     position: absolute;
-    top: 44%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: black;
@@ -129,7 +129,7 @@ button {
     font-weight: 700;
     font-size: 30px;
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: rgb(244, 36, 36);
@@ -193,15 +193,15 @@ button {
   button {
   padding: 0.2rem;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     position: absolute;
-    top: 38%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: rgb(244, 36, 36);
     color: aliceblue;
     border-radius: 15%;
-    width: 100px;
+    width: 80px;
     text-align: center;
     z-index: 1;
 }
