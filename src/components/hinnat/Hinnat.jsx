@@ -4,7 +4,7 @@ import "./hinnat.css";
 const Hinnat = () => {
   return (
     <div className="hinnat__section" id="palvellut">
-      <h1>Palvellut</h1>
+      <h1>Palvelut</h1>
       <div className="hinnat__section-info">
         <div className="hinnat__section-info-div">
           <h3>Treeni Ohjelma</h3>

@@ -12,35 +12,40 @@ const About = () => {
       <div className="about__section-info">
         <h1>Valmentajasi</h1>
         <p>
-          Moi, mä oon Uuno, personal trainer -yrittäjä. Päivät kuluvat
-          treenaillessa pääasiassa kuntosalilla ja muiden urheilulajien parissa.
-          Koulutukseltani olen kokki ja Trainer4You - koulutettu personal
-          trainer, jotka tukevat toisiaan erityisesti ravintopuolella. Ei
-          tarvitse syödä pelkkää kanaa ja riisiä, jos haluaa kehittyä :) Jos sun
-          tavoitteena on:
+          Moro! Olen Uuno 23 vuotias personal trainer Joensuusta. Valmistuin 2
+          vuotta sitten personal traineriksi trainer4you kautta ja sille tielle
+          on jääty. Tässä työssä palkitsevinta on kun asiakkaat löytävät
+          liikunnan ilon, Innostuvat treeneistä ja saavat sitä kautta tuloksia!
+          Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa.
+          Olen käynyt myös kokin ammattitutkinnon jota hyödynnän
+          ravintopuolella. Ei tarvii syödä pelkkää kanaa ja riisiä
+          kehittyäkseen! Lähetään viemään siut kohti parasta kuntoasi! Jos
+          tavoitteenasi on
           <ul>
-            <li>- Kehonmuokkaus </li>
-            <li>- Voimatasojen nosto</li>
-            <li>- Kuntosaliharjoittelun </li>
-            <li>- aloittaminen </li>
+            <li>- Lihasmassan kasvatus </li>
             <li>- Rasvanpoltto</li>
-            <li>- Lihasmassan kasvattaminen </li>
-            <li>- Oppia syömään tavoitteitasi</li>
+            <li>- Voimatasojen nostaminen </li>
+            <li>- Liiketekniikoiden opettelu </li>
+            <li>- Kuntosaliharrastuksen aloittaminen</li>
+            <li>- Oppia syömään tavoitteitasi tukevasti ja hyvää ruokaa. </li>
           </ul>
-        Laita viestiä ja jutellaan lisää! 🤝
+          Laita viestiä ja jutellaan lisää! 🤝
         </p>
-        <h2 id='yhteistietto'>Ota Yhteyttä</h2>
+        <h2 id="yhteistietto">Ota Yhteyttä</h2>
         <h1>👇</h1>
         <div>
-          <a href="https://www.instagram.com/uunosilvennoinen/"  target='_blank' id="ig">
+          <a
+            href="https://www.instagram.com/uunosilvennoinen/"
+            target="_blank"
+            id="ig"
+          >
             <BsInstagram />
-
           </a>
-          
+
           <br />
           <h4>tai</h4>
           <br />
-          <a href='tel:358-447-396239'>
+          <a href="tel:358-447-396239">
             <BsFillTelephoneInboundFill /> +358 44 7396239
           </a>
         </div>

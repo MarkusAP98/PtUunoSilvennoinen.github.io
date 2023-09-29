@@ -11,7 +11,7 @@ const Header = () => {
         srcset=""
       />
       <h1>Rakenna Unelma Kehosi</h1>
-      <button><a href='#palvellut'>Hanki Lihakset</a></button>
+      <button><a href='#palvellut'>Palvelut</a></button>
     </div>
   );
 }
