@@ -10,7 +10,7 @@ img {
   font-weight: 900;
   font-size: 40px;
   position: absolute;
-  top: 80%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: black;
@@ -21,15 +21,15 @@ img {
 button {
   padding: 0.2rem;
     font-weight: 900;
-    font-size: 40px;
+    font-size: 50px;
     position: absolute;
-    top: 110%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: rgb(244, 36, 36);
     color: aliceblue;
     border-radius: 15%;
-    width: 250px;
+    width: 300px;
     text-align: center;
     z-index: 1;
 }
@@ -44,6 +44,34 @@ button:hover {
     position: relative;
     top: -15px;
   }
+  .section h1 {
+  padding: 0.5rem;
+  font-weight: 800;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: black;
+  width: 550px;
+  text-align: center;
+  z-index: 1;
+}
+  button {
+  padding: 0.2rem;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(244, 36, 36);
+    color: aliceblue;
+    border-radius: 15%;
+    width: 250px;
+    text-align: center;
+    z-index: 1;
+}
 }
 
 @media screen and (max-width: 900px) {
