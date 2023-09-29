@@ -10,42 +10,20 @@ const Hinnat = () => {
           <h3>Treeniohjelma</h3>
           <h4>60€</h4>
           <p>
-            Treeniohjelmani tarjoavat: 🏋️‍♂️ Monipuolisuutta: Jokainen ohjelma
-            sisältää vaihtelevia harjoituksia ja treenimuotoja, jotta pysyt
-            motivoituneena ja vältät tylsyyden. 💪 Kehittymistä: Treeniohjelmani
-            on suunniteltu edistymisen maksimoimiseksi. Voit nostaa
-            voimatasojasi, muokata kehoasi ja saavuttaa haluamasi tulokset. 📅
-            Joustavuutta: Huomioin aikataulusi ja elämäntilanteesi
-            suunnitellessani ohjelmaa. Löydämme yhdessä sopivan tasapainon
-            treenien ja arjen välillä. 🔥 Motivaatiota: Olen sitoutunut tukemaan
-            ja kannustamaan sinua matkallasi. Autan sinua ylittämään omat rajasi
-            ja saavuttamaan uudet tasot.
+            Treeniohjelmat räätälöin siun tavoitteitasi tukeviksi ja arkeesi
+            sopiviksi. Saat ohjelman sportyplanner sovelluksessa, joka tekee
+            sarjapainojen ja kehityksen seuraamisesta helppoa. Sovellus sisältää
+            myös tekniikka videot jokaiselle liikkeelle.
           </p>
         </div>
         <div className="hinnat__section-info-div">
-          <h3>Ravinto Ohjelma</h3>
-          <h4>40€</h4>
+          <h3>Ruokavalio</h3>
+          <h4>60€</h4>
           <p>
-            🥦 Yksilöllisyyttä: Suunnittelen ravinto-ohjelman juuri sinun
-            tarpeidesi ja tavoitteidesi pohjalta. Otan huomioon ruokavalioon
-            liittyvät rajoitteet, mieltymykset ja elämäntilanteesi, jotta voit
-            noudattaa ohjelmaa helposti ja nauttien. 🍽 Tasapainoa ja
-            monipuolisuutta: Ravinto-ohjelmani keskittyy tarjoamaan
-            tasapainoisen ja monipuolisen ruokavalion. Huolehdin siitä, että
-            saat tarvittavat ravintoaineet ja energiamäärän tavoitteidesi
-            saavuttamiseksi. 📅 Ateriarytmiä ja aikataulutusta: Huomioin
-            aikataulusi ja päivittäiset rutiinisi suunnitellessani
-            ravinto-ohjelmaa. Laadimme yhdessä sopivan ateriarytmin ja
-            aikataulutuksen, joka sopii elämäntyyliisi ja auttaa sinua pitämään
-            kiinni ohjelmasta. 🍎 Ravitsemusneuvontaa: Tarjoan sinulle
-            ravitsemusneuvontaa ja vinkkejä terveelliseen syömiseen. Autan sinua
-            tekemään parempia ruokavalintoja, ymmärtämään ravintoaineiden
-            merkityksen ja saavuttamaan tavoitteesi. Valitse ravinto-ohjelmani
-            ja anna minun auttaa sinua saavuttamaan optimaalinen ravitsemus ja
-            hyvinvointi. Yhdessä voimme luoda ruokavalion, joka tukee
-            tavoitteitasi ja auttaa sinua saavuttamaan parhaan mahdollisen
-            terveyden ja kunnon. Varataan aika ja aloitetaan matka kohti
-            ravitsemuksellista menestystä!
+            Ruokavaliot suunnittelen siun tavoitteiden ja mieltymysten pohjalta
+            Erityisruokavaliot huomioon ottaen. Voit syödä siun lempiruokia!
+            Tehdään niistä vain tavoitteitasi tukevia tarvittaessa pienillä
+            muutoksilla. Sisältää Ruokapäiväkirjan läpikäynnin.
           </p>
         </div>
         <div className="hinnat__section-info-div">
