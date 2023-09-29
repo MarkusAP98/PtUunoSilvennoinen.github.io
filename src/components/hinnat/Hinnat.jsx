@@ -7,8 +7,8 @@ const Hinnat = () => {
       <h1>Palvelut</h1>
       <div className="hinnat__section-info">
         <div className="hinnat__section-info-div">
-          <h3>Treeni Ohjelma</h3>
-          <h4>40€</h4>
+          <h3>Treeniohjelma</h3>
+          <h4>60€</h4>
           <p>
             Treeniohjelmani tarjoavat: 🏋️‍♂️ Monipuolisuutta: Jokainen ohjelma
             sisältää vaihtelevia harjoituksia ja treenimuotoja, jotta pysyt
