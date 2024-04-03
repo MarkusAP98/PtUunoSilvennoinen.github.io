@@ -11,7 +11,7 @@ const About = () => {
       <img src={image} alt="Valmentajasi" className="about__section-img" />
       <div className="about__section-info">
         <h1>Valmentajasi</h1>
-        <p>Moro! Olen Uuno 23 personal trainer Joensuusta. Tässä työssä palkitsevinta on kun asiakkaat löytävät liikunnan ilon, oppivat parempia elämäntapoja ja kehittyvät omia tavoitteitaan kohti! Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa. Olen entiseltä ammatiltani kokki josta ammennan tietoa ja ideoita ravintopuolelle. Ei tarvii syödä pelkkää kanaa ja riisiä kehittyäkseen! Lähdetään viemään siut kohti parasta kuntoasi! Jos tavoitteenasi on
+        <p>Moro! Olen Uuno 23 personal trainer Joensuusta. Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa. Olen entiseltä ammatiltani kokki josta ammennan tietoa ja ideoita ravintopuolelle. Ei tarvii syödä pelkkää kanaa ja riisiä kehittyäkseen! Tässä työssä palkitsevinta on kun asiakkaat löytävät liikunnan ilon, oppivat parempia elämäntapoja ja kehittyvät omia tavoitteitaan kohti! Lähdetään viemään siut kohti parasta kuntoasi! Jos tavoitteenasi on
 
           <ul>
             <li>- Lihasmassan kasvatus </li>
