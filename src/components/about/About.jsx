@@ -11,16 +11,8 @@ const About = () => {
       <img src={image} alt="Valmentajasi" className="about__section-img" />
       <div className="about__section-info">
         <h1>Valmentajasi</h1>
-        <p>
-          Moro! Olen Uuno 23 vuotias personal trainer Joensuusta. Valmistuin 2
-          vuotta sitten personal traineriksi trainer4you kautta ja sille tielle
-          on jääty. Tässä työssä palkitsevinta on kun asiakkaat löytävät
-          liikunnan ilon, Innostuvat treeneistä ja saavat sitä kautta tuloksia!
-          Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa.
-          Olen käynyt myös kokin ammattitutkinnon jota hyödynnän
-          ravintopuolella. Ei tarvii syödä pelkkää kanaa ja riisiä
-          kehittyäkseen! Lähetään viemään siut kohti parasta kuntoasi! Jos
-          tavoitteenasi on
+        <p>Moro! Olen Uuno 23 personal trainer Joensuusta. Tässä työssä palkitsevinta on kun asiakkaat löytävät liikunnan ilon, oppivat parempia elämäntapoja ja kehittyvät omia tavoitteitaan kohti! Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa. Olen entiseltä ammatiltani kokki josta ammennan tietoa ja ideoita ravintopuolelle. Ei tarvii syödä pelkkää kanaa ja riisiä kehittyäkseen! Lähdetään viemään siut kohti parasta kuntoasi! Jos tavoitteenasi on
+
           <ul>
             <li>- Lihasmassan kasvatus </li>
             <li>- Rasvanpoltto</li>
@@ -28,8 +20,9 @@ const About = () => {
             <li>- Liiketekniikoiden opettelu </li>
             <li>- Kuntosaliharrastuksen aloittaminen</li>
             <li>- Oppia syömään tavoitteitasi tukevasti ja hyvää ruokaa. </li>
+            <li>- Arkijaksamisen parantaminen </li>
           </ul>
-          Laita viestiä ja jutellaan lisää! 🤝
+          Laita viestiä ja varaa aika maksuttomaan alkukartoitukseen!🤝
         </p>
         <h2 id="yhteistietto">Ota Yhteyttä</h2>
         <h1>👇</h1>

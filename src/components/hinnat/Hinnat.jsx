@@ -8,7 +8,7 @@ const Hinnat = () => {
       <div className="hinnat__section-info">
         <div className="hinnat__section-info-div">
           <h3>Treeniohjelma</h3>
-          <h4>60€</h4>
+          <h4>50€</h4>
           <p>
             Treeniohjelmat räätälöin siun tavoitteitasi tukeviksi ja arkeesi
             sopiviksi. Saat ohjelman sportyplanner sovelluksessa, joka tekee
@@ -18,7 +18,7 @@ const Hinnat = () => {
         </div>
         <div className="hinnat__section-info-div">
           <h3>Ruokavalio</h3>
-          <h4>60€</h4>
+          <h4>50€</h4>
           <p>
             Ruokavaliot suunnittelen siun tavoitteiden ja mieltymysten pohjalta
             Erityisruokavaliot huomioon ottaen. Voit syödä siun lempiruokia!
@@ -37,10 +37,10 @@ const Hinnat = () => {
           </p>
         </div>
         <div className="hinnat__section-info-div">
-          <h3>Kuukauden Valmennusta</h3>
-          <h4>129€</h4>
+          <h3>Valmennus</h3>
+          <h4>119€ kk</h4>
           <p>
-            Valmennus alkaen 129€ kk Kokonaisvaltaiseen Valmennukseen kuuluu
+            Valmennus alkaen 119€ kk Kokonaisvaltaiseen Valmennukseen kuuluu
             -Päivittyvät treeniohjelmat -Ravintovalmennus -Yhdessä Tavoitteiden
             asettaminen -Seuraan etenemistäsi ja motivoin sinua saavuttamaan
             tavoitteesi -Valmentajan tuki ja puhelinyhteys -Treenitapaamiset ja
