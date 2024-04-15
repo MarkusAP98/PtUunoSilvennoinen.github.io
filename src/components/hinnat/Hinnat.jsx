@@ -27,7 +27,7 @@ const Hinnat = () => {
           </p>
         </div>
         <div className="hinnat__section-info-div">
-          <h3>Treenitapamaaminen 1h</h3>
+          <h3>Treenitapaaminen 1h</h3>
           <h4>60€</h4>
           <p>
             Treenitapaamisissa opettelemme liiketekniikat kuntoon ja autan sinua
