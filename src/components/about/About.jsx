@@ -14,6 +14,7 @@ const About = () => {
         <p>Moro! Olen Uuno 23 personal trainer Joensuusta. Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa. Olen entiseltä ammatiltani kokki josta ammennan tietoa ja ideoita ravintopuolelle. Ei tarvii syödä pelkkää kanaa ja riisiä kehittyäkseen! Tässä työssä palkitsevinta on kun asiakkaat löytävät liikunnan ilon, oppivat parempia elämäntapoja ja kehittyvät omia tavoitteitaan kohti! Lähdetään viemään siut kohti parasta kuntoasi! Jos tavoitteenasi on
 
           <ul>
+            <li>- Kamppailulajien oheisharjoittelu</li>
             <li>- Lihasmassan kasvatus </li>
             <li>- Rasvanpoltto</li>
             <li>- Voimatasojen nostaminen </li>

@@ -8,7 +8,7 @@ const Hinnat = () => {
       <div className="hinnat__section-info">
         <div className="hinnat__section-info-div">
           <h3>Treeniohjelma</h3>
-          <h4>50€</h4>
+          <h4>59€</h4>
           <p>
             Treeniohjelmat räätälöin siun tavoitteitasi tukeviksi ja arkeesi
             sopiviksi. Saat ohjelman sportyplanner sovelluksessa, joka tekee
@@ -18,7 +18,7 @@ const Hinnat = () => {
         </div>
         <div className="hinnat__section-info-div">
           <h3>Ruokavalio</h3>
-          <h4>50€</h4>
+          <h4>59€</h4>
           <p>
             Ruokavaliot suunnittelen siun tavoitteiden ja mieltymysten pohjalta
             Erityisruokavaliot huomioon ottaen. Voit syödä siun lempiruokia!
@@ -28,23 +28,23 @@ const Hinnat = () => {
         </div>
         <div className="hinnat__section-info-div">
           <h3>Treenitapaaminen 1h</h3>
-          <h4>60€</h4>
+          <h4>69€</h4>
           <p>
             Treenitapaamisissa opettelemme liiketekniikat kuntoon ja autan sinua
             ylittämään rajojasi, Sekä saamaan kaiken irti treenistä!
-            Treenitapaamiset Ptvgym joensuu ja Easyfit joensuu (Easyfit salin
+            Treenitapaamiset Combat heaven, Ptvgym ja Easyfit joensuu (Easyfit salin
             omilla hinnoilla)
           </p>
         </div>
         <div className="hinnat__section-info-div">
           <h3>Valmennus</h3>
-          <h4>119€ kk</h4>
+          <h4>149€ kk</h4>
           <p>
-            Valmennus alkaen 119€ kk Kokonaisvaltaiseen Valmennukseen kuuluu
+            Kokonaisvaltaiseen Valmennukseen kuuluu
             -Päivittyvät treeniohjelmat -Ravintovalmennus -Yhdessä Tavoitteiden
             asettaminen -Seuraan etenemistäsi ja motivoin sinua saavuttamaan
             tavoitteesi -Valmentajan tuki ja puhelinyhteys -Treenitapaamiset ja
-            liiketekniikoiden opettelu - Valmennuksen hinta riippuu millainen
+            liiketekniikoiden opettelu - Valmennuksen lopullinen hinta riippuu millainen
             paketti sinulle rakennetaan.
           </p>
         </div>
