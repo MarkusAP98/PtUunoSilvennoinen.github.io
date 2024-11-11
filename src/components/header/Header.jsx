@@ -10,8 +10,6 @@ const Header = () => {
         alt="Header"
         srcset=""
       />
-      {/* <h1>Rakenna Unelma Kehosi</h1> */}
-      <button><a href='#palvellut'>Palvelut</a></button>
     </div>
   );
 }
