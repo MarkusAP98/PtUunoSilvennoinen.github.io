@@ -8,6 +8,22 @@ const About = () => {
     <div className="about__section" id="valmentajasi">
       <img src={image} alt="Valmentajasi" className="about__section-img" />
       <div className="about__section-info">
+        <div>
+          <h2>Toimipaikat</h2>
+          <p className="p-toimi-paikat"> - Combat Heaven</p>
+          <p className="p-toimi-paikat"> - PTV Gym Joensuu</p>
+          <p className="p-toimi-paikat"> - EasyFit Joensuu</p>
+          <p className="p-toimi-paikat"> - Joensuu lähialueet</p>
+          <h2>Valmennus</h2>
+          <p className="p-toimi-paikat">- Kamppailulajien oheisharjoittelu</p>
+          <p className="p-toimi-paikat">- Kuntosaliharrastuksen aloittaminen</p>
+          <p className="p-toimi-paikat">- Liiketekniikoiden opettelu</p>
+          <p className="p-toimi-paikat">- Lihasmassan kasvatus</p>
+          <p className="p-toimi-paikat">- Voimatasojen nosto</p>
+          <p className="p-toimi-paikat">- Rasvanpoltto</p>
+          <p className="p-toimi-paikat">- Ravintovalmennus</p>
+          <p className="p-toimi-paikat">-Arkijaksamisen parantaminen</p>
+        </div>
         <h2>Valmentajasi</h2>
         <div>
           <p>Moro! Mie oon Personal trainer Uuno!</p>

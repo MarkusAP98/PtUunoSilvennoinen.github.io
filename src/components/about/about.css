@@ -1,6 +1,5 @@
 .about__section {
   display: flex;
-  text-align: ;
   width: 100%;
 }
 .about__section p {
@@ -26,6 +25,7 @@
 #yhteistietto {
   background-color: red;
   height: 30px;
+  text-align: center;
 }
 
 @media screen and (max-width: 1100px) {
@@ -74,9 +74,13 @@
   padding-bottom: 1rem;
 }
 h2 {
-  text-align: center;
+  padding-left: 1.5rem;
 }
 .icon_section {
   padding-top: 2rem;
   text-align: center;
+}
+.p-toimi-paikat {
+  margin: -1.2rem 0; 
+  padding: 0;
 }
