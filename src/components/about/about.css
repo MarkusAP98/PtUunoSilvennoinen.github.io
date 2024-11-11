@@ -1,13 +1,11 @@
 .about__section {
     display: flex;
-    text-align: center;
+    text-align:;
     width: 100%;
 }
 .about__section p {
-    padding: 2rem;
-    margin: 3rem;
-    text-align: center;
-    line-height: 1.3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 .about__section-img {
     width: 50%;
@@ -70,4 +68,13 @@
 #ig {
     font-size: 50px;
     cursor: pointer;
+}
+.last-p {
+    padding-top: 3rem;
+}
+h2 {
+    text-align: center;
+}
+.icon_section {
+    text-align: center;
 }
