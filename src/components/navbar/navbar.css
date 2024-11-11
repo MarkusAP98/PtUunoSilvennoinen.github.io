@@ -5,7 +5,8 @@
 ul,
 .navbar li {
     display: flex;
-    font-size: 50px;
+    padding-top: 10px;
+    font-size: 40px;
     justify-content: center;
     margin:  0.5rem 2rem 0.5rem 1rem;
     cursor: pointer;

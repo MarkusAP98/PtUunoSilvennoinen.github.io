@@ -48,7 +48,6 @@ const About = () => {
 
         <h2 id="yhteistietto">Ota Yhteyttä</h2>
         <div className="icon_section">
-        <h1>👇</h1>
           <a
             href="https://www.instagram.com/uunosilvennoinen/"
             target="_blank"
