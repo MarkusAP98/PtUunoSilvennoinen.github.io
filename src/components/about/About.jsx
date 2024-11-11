@@ -1,9 +1,7 @@
-import React from 'react'
-import './about.css'
-import image from '../../assets/IMG_20220111_224045_554.jpg'
+import React from "react";
+import "./about.css";
+import image from "../../assets/IMG_20220111_224045_554.jpg";
 import { BsInstagram, BsFillTelephoneInboundFill } from "react-icons/bs";
-
-
 
 const About = () => {
   return (
@@ -11,20 +9,28 @@ const About = () => {
       <img src={image} alt="Valmentajasi" className="about__section-img" />
       <div className="about__section-info">
         <h1>Valmentajasi</h1>
-        <p>Moro! Olen Uuno 23 personal trainer Joensuusta. Töiden lisäksi aika menee salilla ja erilaisten urheilulajien parissa. Olen entiseltä ammatiltani kokki josta ammennan tietoa ja ideoita ravintopuolelle. Ei tarvii syödä pelkkää kanaa ja riisiä kehittyäkseen! Tässä työssä palkitsevinta on kun asiakkaat löytävät liikunnan ilon, oppivat parempia elämäntapoja ja kehittyvät omia tavoitteitaan kohti! Lähdetään viemään siut kohti parasta kuntoasi! Jos tavoitteenasi on
-
-          <ul>
-            <li>- Kamppailulajien oheisharjoittelu</li>
-            <li>- Lihasmassan kasvatus </li>
-            <li>- Rasvanpoltto</li>
-            <li>- Voimatasojen nostaminen </li>
-            <li>- Liiketekniikoiden opettelu </li>
-            <li>- Kuntosaliharrastuksen aloittaminen</li>
-            <li>- Oppia syömään tavoitteitasi tukevasti ja hyvää ruokaa. </li>
-            <li>- Arkijaksamisen parantaminen </li>
-          </ul>
-          Laita viestiä ja varaa aika maksuttomaan alkukartoitukseen!🤝
+        <p className="styled-paragraph">
+          Moro! Mie oon Personal trainer Uuno! Kahdeksan vuotta sitten tein itse
+          elämäntapamuutoksen. Urheilusta muodostui äkkiä intohimo ja lopulta
+          päätin luoda rakkaasta harrastuksesta ammatin kouluttautumalla
+          Personal traineriksi. Olen toiminut Personal trainerina 3 vuotta.
+          Valmennuksen laadun varmistamiseksi kehitän osaamistani aktiivisesti.
+          Asiakaskuntaani kuuluu niin elämäntapamuutokseen tähtääviä,
+          tavoitteellisesti treenaavia, kuin juuri treeniuransa aloittaneita.
+          Lähtötasolla ei ole merkitystä! Entiseltä ammatiltani olen kokki.
+          Kokin hommat jäi taka-alalle, mutta käteen jäi laaja tietotaito
+          hyvästä, monipuolisesta ja ravitsevasta ruuasta. Hyödynnän tätä
+          ravintovalmennuksessa. Otan jokaisen asiakkaan huomioon yksilönä ja
+          muokkaan treeniohjelmat arkeen ja tavoitteisiin sopiviksi kuntotason
+          mukaan. Työssäni palkitsevinta on kun asiakkaat kehittyvät kohti
+          tavoitteitaan ja löytävät liikunnan ilon elämäänsä! Usein miut saattaa
+          bongata kuntosalilta tai Combat Heavenin tatamilta, tuu ihmeessä
+          nykäsee hihasta!
         </p>
+        <p>Ota
+          ensimmäinen askel kohti hyvinvointia ja varaa aika ilmaiseen
+          alkukartoitukseen!</p>
+
         <h2 id="yhteistietto">Ota Yhteyttä</h2>
         <h1>👇</h1>
         <div>
@@ -46,6 +52,6 @@ const About = () => {
       </div>
     </div>
   );
-}
+};
 
-export default About
+export default About;
