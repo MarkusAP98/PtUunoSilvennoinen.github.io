@@ -22,10 +22,10 @@ const About = () => {
           <p className="p-toimi-paikat">- Voimatasojen nosto</p>
           <p className="p-toimi-paikat">- Rasvanpoltto</p>
           <p className="p-toimi-paikat">- Ravintovalmennus</p>
-          <p className="p-toimi-paikat">-Arkijaksamisen parantaminen</p>
+          <p className="p-toimi-paikat">- Arkijaksamisen parantaminen</p>
         </div>
         <h2>Valmentajasi</h2>
-        <div>
+        <div className="p-p">
           <p>Moro! Mie oon Personal trainer Uuno!</p>
           <p>
             Kahdeksan vuotta sitten tein itse elämäntapamuutoksen. Urheilusta
@@ -75,7 +75,12 @@ const About = () => {
           <br />
           <h4>tai</h4>
           <br />
-          <a href="tel:358-447-396239">
+          <a
+            href="tel:358-447-396239"
+            style={{
+              fontSize: "20px",
+            }}
+          >
             <BsFillTelephoneInboundFill /> +358 44 7396239
           </a>
         </div>
