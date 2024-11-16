@@ -8,8 +8,24 @@ const About = () => {
     <div className="about__section" id="valmentajasi">
       <img src={image} alt="Valmentajasi" className="about__section-img" />
       <div className="about__section-info">
-        <h2>Valmentajasi</h2>
         <div>
+          <h2>Toimipaikat</h2>
+          <p className="p-toimi-paikat"> - Combat Heaven</p>
+          <p className="p-toimi-paikat"> - PTV Gym Joensuu</p>
+          <p className="p-toimi-paikat"> - EasyFit Joensuu</p>
+          <p className="p-toimi-paikat"> - Joensuu lähialueet</p>
+          <h2>Valmennus</h2>
+          <p className="p-toimi-paikat">- Kamppailulajien oheisharjoittelu</p>
+          <p className="p-toimi-paikat">- Kuntosaliharrastuksen aloittaminen</p>
+          <p className="p-toimi-paikat">- Liiketekniikoiden opettelu</p>
+          <p className="p-toimi-paikat">- Lihasmassan kasvatus</p>
+          <p className="p-toimi-paikat">- Voimatasojen nosto</p>
+          <p className="p-toimi-paikat">- Rasvanpoltto</p>
+          <p className="p-toimi-paikat">- Ravintovalmennus</p>
+          <p className="p-toimi-paikat">- Arkijaksamisen parantaminen</p>
+        </div>
+        <h2>Valmentajasi</h2>
+        <div className="p-p">
           <p>Moro! Mie oon Personal trainer Uuno!</p>
           <p>
             Kahdeksan vuotta sitten tein itse elämäntapamuutoksen. Urheilusta
@@ -59,7 +75,12 @@ const About = () => {
           <br />
           <h4>tai</h4>
           <br />
-          <a href="tel:358-447-396239">
+          <a
+            href="tel:358-447-396239"
+            style={{
+              fontSize: "20px",
+            }}
+          >
             <BsFillTelephoneInboundFill /> +358 44 7396239
           </a>
         </div>
